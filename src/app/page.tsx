@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>Hola amor, te amo</h1>;
+  return <h1>Xhivanny es mi novia</h1>;
 }
